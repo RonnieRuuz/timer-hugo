@@ -1,6 +1,6 @@
-baseURL = "https://demo.gethugothemes.com/timer/site/"
-languageCode = "en-us"
-title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+baseURL = "https://ronnieruuz.github.io/timer-hugo/"
+languageCode = "es-mx"
+title = "Solución Financiera"
 theme = "timer-hugo"
 # post pagination
 paginate = "2" # see https://gohugo.io/extras/pagination/
